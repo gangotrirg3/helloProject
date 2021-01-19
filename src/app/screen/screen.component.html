@@ -69,8 +69,8 @@
             <span class="filler"></span>
             <button mat-icon-button class="sideBar"  color="accent" title="view Image List" (click)="sideClose()"><mat-icon >close</mat-icon></button>
             </mat-toolbar>
-            <div class="sideBody">
-            <div style="width: 90%;" (click)="openThisImage($event)"></div>
+            <div class="sideBody" (click)="openThisImage($event)">
+            <!-- <div style="width: 90%;" (click)="openThisImage($event)"></div> -->
             </div>
            </div>
            </as-split-area>
