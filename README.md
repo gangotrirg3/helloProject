@@ -1,3 +1,6 @@
+
+  <p><img src="Docs/zoom.png" width="350" title="hover text"></p>
+
 # OCR Web GUI
 #### Instructions to use OCR-WEB tool
 
