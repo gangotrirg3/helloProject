@@ -3,7 +3,7 @@
 
   - Hit the IISc OCR-WEB url:  [OCR-WEB](http://169.38.86.210:8080)
   - Log in with the Email and the Password provided.
-  ![alt text](Docs/login.png)
+  ![alt text](/src/assets/images/fitScrre%20(1).png)
   
   
   - On logging in, you will see the page where you can upload the scanned images. you will be able to upload a scanned single image or multiple images(with unique filename)      from your local directory using the `upload Image` and `upload folder` buttons respectively.
