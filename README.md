@@ -5,9 +5,15 @@
   - Log in with the Email and the Password provided.
   ![alt text](/src/assets/images/fitScrre%20(1).png)
   
-  
+  <p><img src="https://github.com/gangotrirg3/helloProject/blob/main/Docs/zoom.png" width="350" title="hover text"></p>
   - On logging in, you will see the page where you can upload the scanned images. you will be able to upload a scanned single image or multiple images(with unique filename)      from your local directory using the `upload Image` and `upload folder` buttons respectively.
     ![alt text](Docs/openImage.png)
+    <img
+src=“Docs/openImage.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
     
     
   - Once the images are uploaded, you will be able to see the first image of the uploaded folder at left side split screen in few moments.
